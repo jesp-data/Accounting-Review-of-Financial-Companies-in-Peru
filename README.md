@@ -16,7 +16,8 @@
 
 # PATRIMONIO FINANCIERAS VIGENTES
 
-<img width="1202" height="901" alt="patrimonio financiera vig" src="https://github.com/user-attachments/assets/cebcb6cf-0783-4f1c-a5ab-08dad47d0113" />
+<img width="1202" height="901" alt="patrimonio financiera vig" src="https://github.com/user-attachments/assets/bb7f3c8c-3db6-4598-9c17-737cf8f7dbd9" />
+
 
 
 [![Ver Gráfico Interactivo - DISPONIBLE](https://img.shields.io/badge/Ver-Gráfico%20Interactivo-blue?style=for-the-badge)](https://jesp-data.github.io/Accounting-Review-of-Financal-Companies-in-Peru/Plots/activo_financiera_vig.html)
