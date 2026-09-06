@@ -5,7 +5,7 @@
 
 <img width="1202" height="901" alt="activo financiera vig" src="https://github.com/user-attachments/assets/0c64d2a7-de28-4411-aeda-ea048fa0eeaf" />
 
-[![Ver Gráfico Interactivo - DISPONIBLE](https://img.shields.io/badge/Ver-Gráfico%20Interactivo-blue?style=for-the-badge)](https://jesp-data.github.io/Accounting-Review-of-Financal-Companies-in-Peru/Plots/activos_financieras_abiertas.html)
+[![Ver Gráfico Interactivo - DISPONIBLE](https://img.shields.io/badge/Ver-Gráfico%20Interactivo-blue?style=for-the-badge)](https://jesp-data.github.io/Accounting-Review-of-Financal-Companies-in-Peru/Plots/activo_financieras_abiertas.html)
 
 # PASIVO FINANCIERAS VIGENTES
 
