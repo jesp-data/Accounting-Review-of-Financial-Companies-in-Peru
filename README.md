@@ -16,7 +16,8 @@
 
 # PATRIMONIO FINANCIERAS VIGENTES
 
-<img width="1202" height="901" alt="patrimonio financiera vig" src="https://github.com/user-attachments/assets/bb7f3c8c-3db6-4598-9c17-737cf8f7dbd9" />
+ <img width="1202" height="901" alt="patrimonio financiera vig" src="https://github.com/user-attachments/assets/3028aa87-273e-4450-af21-320426551758" />
+
 
 
 
